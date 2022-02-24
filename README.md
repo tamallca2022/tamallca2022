@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, Javascript, JQuery, Bootstrap5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 6296 941 960
-- 🌏 [Learn Computer Academy](https://learncomputer.in) is a wWeb Design and Develepment training center. I learn Web Design and Development from there. 
+- 🌏 [Learn Computer Academy](https://learncomputer.in) is a Web Design and Develepment training center. I learn Web Design and Development from there. 
 
 <!---
 tamallca2022/tamallca2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
